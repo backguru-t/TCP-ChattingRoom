@@ -28,11 +28,6 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
-ChatLib/bin
-ChatLib/obj
-ChatServer/.vs
-ChatServer/ChatServer/bin
-ChatServer/ChatServer/obj
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
